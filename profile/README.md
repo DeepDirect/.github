@@ -16,7 +16,7 @@ Code: [FE](https://github.com/DeepDirect/ddok-fe), [BE](https://github.com/DeepD
 ## 🫶 팀원
 | 이름      | 역할                 | GitHub 링크                                     |
 |----------|--------------------|------------------------------------------------|
-| 정원용     | 팀장, Full Stack, Infra    | [@projectmiluju](https://github.com/jihun-dev) |
+| 정원용     | 팀장, Full Stack, Infra    | [@projectmiluju](https://github.com/projectmiluju) |
 | 권혜진     | Backend            | [@sunsetkk](https://github.com/sunsetkk)       |
 | 박건      | Frontend            | [@Jammanb0](https://github.com/Jammanb0)       |
 | 박소현     | Frontend           | [@ssoogit](https://github.com/ssoogit)         |
